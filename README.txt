@@ -39,7 +39,7 @@ Este ultimo activa el localhost de flask
 
 3- Luego de ejecutar flask, verificar si tiene activo el localhost de XAMPP o WAMP dependiendo el caso.
 
-4- Una vez terminado con flask, ir al repositorio donde se encuentra la aplicacion de angular para probar el API: ENCUESTA-REDES-SOCIALES. En la carpeta donde se guardo los archivos de angular del repositorio de GitHub se debe abrir una consola con el mismo directorio y ejecutar el siguiente comando:
+4- Una vez terminado con flask, ir al repositorio donde se encuentra la aplicacion de angular para probar el API: ENCUESTA-REDES-SOCIALES. En la carpeta donde se guardo los archivos de angular del repositorio de GitHub (https://github.com/ccabello223/Encuesta-Redes-Sociales) se debe abrir una consola con el mismo directorio y ejecutar el siguiente comando:
 
 npm install
 
